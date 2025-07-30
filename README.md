@@ -1,5 +1,5 @@
 # Jarvis-AI-Powered-chatbot
-Certainly! Here’s a suggested README description for your Jarvis-AI-Powered-chatbot project:
+ Here’s a README description for Jarvis-AI-Powered-chatbot project:
 
 ---
 
@@ -32,8 +32,8 @@ Jarvis-AI-Powered-Chatbot is an intelligent conversational assistant built with 
 ## Technologies Used
 
 - **Python:** Core logic and AI processing.
-- **HTML:** Simple web interface for chat interactions.
-
+- **HTML:** Graphic designed GUI graphical user interface or  web interface for chat interactions.
+- **Bootstrap:** A stimulating core Functionality issues an built to perform automation and interact with GUI Backend & Frontend .
 ## Contributing
 
 Contributions are welcome! Please submit issues or pull requests to help improve Jarvis.
